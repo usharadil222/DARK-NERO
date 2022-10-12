@@ -6,22 +6,22 @@
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
    "env": {
   
- "OWNER_NAME" :{
-    "description" : "enter you name",
+ "OWNER_NAME" :{✰⃪☘ₛͥₑͣₓ⃪ͫᵞᴋɪɴɢ☇ᴋᴀᴅᴀғɪ🌙⃯™}
+    "description" : "ආතල් එකෙ ඉදහල්ලා🙃",
     "required" : true,
-  "value" : "KAVEESHA "
+  "value" : "KADAFI "
     },
     
      
      
-"ALIVE_MSG" :{
-    "description" : "enter you msg",
+"ALIVE_MSG" :{ඉන්නවා ඉන්නවා🙃 ඕනෙ දෙයක් ඉල්ලන්න🙈}
+    "description" : "හායි කොහොමද ඔයාලට🙃",
     "required" : true,
   "value" : "HI I'M  ⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖"
     },
      
-     "ALIVE_LOGO" :{
-    "description" : "you logo key",
+     "ALIVE_LOGO" :{https://ibb.co/F5MK8pV}
+    "description" : "https://ibb.co/F5MK8pV",
     "required" : true,
   "value" : "https://i.ibb.co/2d6vv85/Whats-App-Image-2022-09-26-at-07-59-53.jpg"
     }
